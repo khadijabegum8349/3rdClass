@@ -1,0 +1,250 @@
+*{padding: 0px;
+	margin: 0px;}
+
+.container{
+	width: 1140px;
+	margin: 0 auto;
+}
+
+
+/*Header part start*/
+
+header {
+	width: 100%;
+	float: left;
+
+
+
+
+}
+.logo{
+	background-color: yellow;
+	height: 75px;
+	width: 50%;
+	float: left;
+	
+
+}
+.Menu{
+
+	background-color: red;
+	height: 75px;
+    width: 50%;
+    float: left;
+}
+
+nav ul {
+
+
+	list-style: none;
+}
+
+nav ul li {
+
+
+	display: inline-block;
+	margin: 26px 30px;
+}
+
+nav ul li a {
+
+	
+	text-decoration: none;
+	color: white;
+	font-size: 21px;
+}
+/*Header part end*/
+
+/*about image*/
+.about{
+       width: 100%;
+	   float: left;
+}
+.about-image
+{background-color: cyan;
+	height: 350px;
+    width: 40%;
+    float: left;
+
+}
+.about-content {
+	background-color: blue;
+	height: 350px;
+    width: 60%;
+    float: left;
+
+}
+
+.about-content-one{ 
+	background-color: darkblue;
+	height: 350px;
+    width: 50%;
+    float: left;
+
+}
+.about-content-two{background-color: black;
+	height: 350px;
+    width: 50%;
+    float: left;
+
+}
+
+
+/*service*/
+.service{
+	width: 100%;
+    float: left;	
+
+}
+
+.service-one{
+
+			width: 33.33%;
+	        float: left;
+	        background-color: pink;
+	        height: 450px;
+
+}
+
+.service-two{
+			width: 33.33%;
+	        float: left;
+	        background-color: skyblue;
+	        height: 450px;
+
+
+}
+
+.service-three{
+			width: 33.33%;
+	        float: left;
+	        background-color: green;
+	        height: 450px;
+
+
+}
+
+/*contact*/
+.contact{
+	width: 100%;
+    float: left;	
+
+}
+
+.contact-one{
+
+			width: 25%;
+	        float: left;
+	        background-color: red;
+	        height: 450px;
+
+}
+
+.contact-two{
+			width: 25%;
+	        float: left;
+	        background-color: lightblue;
+	        height: 450px;
+
+
+}
+
+.contact-three{
+			width: 25%;
+	        float: left;
+	        background-color: darkgreen;
+	        height: 450px;
+
+
+}
+
+.contact-four{
+			width: 25%;
+	        float: left;
+	        background-color: lightgreen;
+	        height: 450px;
+
+}
+
+/*footer part start*/
+.footer{
+		width: 100%;
+	   float: left;
+
+}
+.copyright{
+			width: 70%;
+	      	float: left;
+
+}
+.social{
+	width: 30%;
+	float: left;
+
+}
+.social ul{
+ 
+}
+
+.social ul li{
+
+display: inline-block;
+
+margin: 10px 20px;
+
+}
+
+.fa.fa-facebook {
+	background: #426782;
+	padding: 6px 10px;
+	color: #fff;
+	font-size: 18px;
+	transition: 0.4s ease;
+	
+}
+
+.fa.fa-facebook:hover {
+	transform: scale(1.2);
+	
+}
+.fa.fa-linkedin {
+	background: #426782;
+	padding: 6px 10px;
+	color: #fff;
+	font-size: 18px;
+	transition: 0.4s ease;
+	
+}
+
+.fa.fa-linkedin:hover {
+	transform: scale(1.2);
+	
+}
+
+.fa.fa-youtube-play {
+	background: #FF0303;
+	padding: 6px 10px;
+	color: #fff;
+	font-size: 18px;
+	transition: 0.4s ease;
+	
+}
+
+.fa.fa-youtube-play:hover {
+	transform: scale(1.2);
+	
+}
+
+.fa.fa-rss {
+	background: #238AE6;
+	padding: 6px 10px;
+	color: #fff;
+	font-size: 18px;
+	transition: 0.4s ease;
+	
+}
+
+.fa.fa-rss:hover {
+	transform: scale(1.2);
+	
+}
